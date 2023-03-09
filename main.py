@@ -29,7 +29,8 @@ platforms = [
     'pandora.com',
     'pdora.co',
     'www.deezer.com',
-    'api.deezer.com'
+    'api.deezer.com',
+    'deezer.com',
 ]
 
 bot = discord.Client()
