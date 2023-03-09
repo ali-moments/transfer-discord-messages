@@ -31,7 +31,7 @@ Supported platforms:
    `python3 main.py`
 
 > :warning: **Warning:** Bot should have proper permission to see and send messages.
-<br>
+
 > :memo: **Note:** you have to get a discord bot token from [discord developer portal](https://discord.com/developers/applications)
 
 ## Dependencies
