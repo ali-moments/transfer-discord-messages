@@ -50,4 +50,4 @@ Contributions are welcome! If you find a bug or have a feature request, please [
 
 ## Credits
 
-@ali-moments
+[@ali-moments](https://github.com/ali-moments/)
