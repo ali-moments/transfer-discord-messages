@@ -17,6 +17,7 @@ platforms = [
     'embed.spotify.com',
     'api.spotify.com',
     'soundcloud.com',
+    'on.soundcloud.com',
     'api.soundcloud.com',
     'm.soundcloud.com',
     'music.apple.com',
